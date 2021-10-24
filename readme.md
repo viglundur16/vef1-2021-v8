@@ -8,6 +8,8 @@ Leyfilegt er að breyta öllu í grunn sem gefinn er, jafnvel skrifa eigin útf�
 
 Sjá má hvernig leikur spilast í `virkni.mp4`.
 
+Vefur skal vera prófaður og virka í nýjustu útgáfum af Firefox og Chrome.
+
 ## Stöður
 
 Við getum hugsað um leikinn sem stöðuvél:
