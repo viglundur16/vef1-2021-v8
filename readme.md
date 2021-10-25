@@ -1,5 +1,7 @@
 # Verkefni 8
 
+[Kynning í fyrirlestri](https://youtu.be/5GAg9Olchf8)
+
 Verkefni 8 heldur áfram með [verkefni 7](https://github.com/vefforritun/vef1-2021-v7) og bætir viðmóti við leikinn, reglur eru þær sömu. Við það bætist töluvert af kóða og utanumhaldi um _stöðu_ forritsins.
 
 Til að hjálpa til við að skipuleggja forritið notum við [`JavaScript modules`](https://github.com/vefforritun/vef1-2021/blob/main/vikur/10/10.4.modules.md#javascript-modules), í `index.html` er vísað í `main.js` með `<script type="module">`.
